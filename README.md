@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nixeff
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning cod
+- 🌱 I’m currently learning code
 - 📫 How to reach me Discord Nixeff#9861
 
 <!---
