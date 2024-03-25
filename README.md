@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nixeff
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning code
-- 📫 How to reach me Discord Nixeff#0001
+- 📫 How to reach me on Discord: nixeff
 
 <!---
 Nixeff/Nixeff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
